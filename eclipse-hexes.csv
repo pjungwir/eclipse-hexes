@@ -1,0 +1,38 @@
+Sector,Name,Ring,Points,Econ,Labs,Mines,Wild,Adv Econ,Adv Labs,Adv Mines,Ancients,Discovery,Artifact
+101,Castor,1,2,1,0,1,0,0,0,1,1,1,0
+102,Pollux,1,3,0,1,0,0,0,1,0,0,0,1
+103,Beta Leonis,1,2,0,0,0,1,0,0,0,0,0,0
+104,Arcturus,1,2,1,1,0,0,1,1,0,2,1,0
+105,Zeta Herculis,1,3,1,1,0,0,0,0,1,1,1,1
+106,Capella,1,2,0,1,1,0,0,0,0,0,0,0
+107,Aldebaran,1,2,1,0,0,0,0,1,1,0,0,0
+108,Mu Cassiopeiae,1,2,0,1,0,1,1,0,0,1,1,0
+201,Alpha Centauri,2,1,0,1,0,0,0,0,0,0,0,0
+202,Fomalhaut,2,1,0,1,0,0,0,1,0,0,0,0
+203,Chi Draconis,2,1,1,1,1,0,0,0,0,2,1,0
+204,Vega,2,2,0,0,0,1,1,0,1,1,1,1
+205,Mu Herculis,2,1,1,0,0,0,1,1,0,0,0,0
+206,Epsilon Indi,2,1,0,0,1,0,0,0,0,0,0,0
+207,Zeta Reticuli,2,1,0,0,0,0,0,0,0,0,1,0
+208,Iota Persei,2,1,0,0,0,0,0,0,0,0,1,0
+209,Delta Eridani,2,1,0,1,0,0,1,0,0,0,0,0
+210,Psi Capricorni,2,1,1,0,1,0,0,0,0,0,0,0
+211,Beta Aquilae,2,2,1,0,0,1,0,0,1,1,1,1
+301,Zeta Draconis,3,2,1,1,0,0,0,0,1,2,1,1
+302,Gamma Serpentis,3,2,0,0,1,0,1,0,0,1,1,1
+303,Eta Cephei,3,2,0,0,0,1,0,0,0,1,1,1
+304,Theta Pegasi,3,1,0,0,1,0,1,0,0,0,0,0
+305,Lambda Serpentis,3,1,0,1,1,0,0,0,0,1,1,0
+306,Beta Centauri,3,1,1,0,1,0,0,0,0,0,0,0
+307,Sigma Sagittarii,3,1,1,0,0,0,0,1,0,0,0,0
+308,Kappa Scorpii,3,1,0,1,0,0,0,0,1,0,0,0
+309,Phi Piscium,3,1,1,0,0,0,0,1,0,0,0,0
+310,Nu Phoenicis,3,1,0,1,1,0,0,0,0,0,0,0
+311,Canopus,3,1,0,0,1,0,0,0,0,0,1,0
+312,Antarea,3,1,0,0,1,0,0,0,0,0,1,0
+313,Alpha Ursae Minoris,3,1,0,0,0,1,0,0,0,0,1,0
+314,Spica,3,1,0,0,0,1,0,0,0,0,1,0
+315,Epsilon Aurigae,3,1,0,0,0,0,0,0,0,0,1,0
+316,Iota Carinae,3,1,0,0,0,0,0,0,0,0,1,0
+317,Beta Crucis,3,1,1,0,0,0,1,0,0,0,0,0
+318,Gamma Velorum,3,1,0,0,1,1,0,0,0,0,0,0

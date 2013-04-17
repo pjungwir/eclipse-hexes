@@ -8,3 +8,6 @@ tables:
 
 rows:
 	./csv-to-sql.rb eclipse-hexes.csv | PGPASSWORD=ancients psql -U eclipse_hexes -h localhost
+
+report:
+	PGPASSWORD=ancients psql -U eclipse_hexes -h localhost < hexes-report.sql
